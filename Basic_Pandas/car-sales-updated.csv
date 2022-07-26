@@ -1,0 +1,11 @@
+,Make,Colour,Odometer (KM),Doors,Price,Seat,fuel_consumption_per_100k,Clearance
+0,Toyota,White,150043,4,400000,5.0,7.7,True
+1,Honda,Red,87899,4,500000,5.0,8.0,True
+2,Toyota,Blue,32549,3,700000,5.0,9.5,True
+3,BMW,Black,11179,5,2200000,5.0,8.8,True
+4,Nissan,White,213095,4,350000,6.0,7.6,True
+5,Toyota,Green,99213,4,450000,6.0,8.0,True
+6,Honda,Blue,45698,4,750000,6.0,9.4,True
+7,Honda,Blue,54738,4,700000,6.0,7.8,True
+8,Toyota,White,60000,4,625000,6.0,8.6,True
+9,Nissan,White,31600,4,970000,6.0,11.0,True
